@@ -1,0 +1,3 @@
+@echo off
+table
+pause

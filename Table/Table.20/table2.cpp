@@ -29,7 +29,7 @@ int main() {
 
             std::cout << std::setw(4) << row * col;
 
-            std::cout << "\033[0m"; // сброс цвета после каждого числа
+            std::cout << "\033[0m"; 
         }
 
         std::cout << std::endl;
@@ -37,6 +37,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
